@@ -1,5 +1,6 @@
 # The_Gaming_Room
 Portfolio Addition for CS-230
+
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The client, The Gaming Room, is a fictitious Gaming Company that wanted the developer, myself, to design a game that could be deployed on multiple platforms.
 
